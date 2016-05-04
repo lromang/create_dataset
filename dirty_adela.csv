@@ -1,0 +1,195 @@
+"slug","dep","tiene_inventario","tiene_plan","recursos","conjuntos","fecha"
+"agroasemex","AGROASEMEX",TRUE,TRUE,16,16,2016-04-28
+"aicm","AICM",TRUE,TRUE,2,2,2015-10-27
+"api-atm","API-ATM",FALSE,FALSE,16,16,2015-11-09
+"api-coa","API-COA",TRUE,TRUE,16,11,2015-11-27
+"api-db","API-DB",TRUE,TRUE,14,6,2015-10-28
+"api-ese","API-ESE",FALSE,TRUE,10,3,2016-03-16
+"api-gym","API-GYM",FALSE,FALSE,3,3,2015-10-27
+"api-lzc","API-LZC",TRUE,TRUE,7,6,2015-10-27
+"api-mzt","API-MZT",TRUE,TRUE,7,7,2015-10-31
+"api-pch","API-PCH",TRUE,TRUE,2,2,2016-02-15
+"api-scx","API-SCX",TRUE,TRUE,7,7,2016-04-05
+"api-t","API-T",FALSE,FALSE,4,4,2016-02-23
+"api-tam","API-TAM",TRUE,TRUE,14,14,2015-10-27
+"api-tux","API-TUX",TRUE,TRUE,3,3,2016-04-12
+"api-ver","API-VER",TRUE,TRUE,2,2,2015-10-30
+"api-vsa","API-VSA",TRUE,TRUE,7,7,2015-10-27
+"api-zlo","API-ZLO",TRUE,TRUE,13,13,2016-01-01
+"asa","Aeropuertos y Servicios Auxiliares",TRUE,TRUE,6,6,2016-04-22
+"ase-chihuahua","ASE Chihuahua",TRUE,TRUE,7,7,2015-11-24
+"ayuntamiento-de-ciudad-juarez","Ayuntamiento de Ciudad Juárez",FALSE,FALSE,7,7,2015-10-23
+"ayuntamiento-de-minatitlan","Ayuntamiento de Minatitlán",TRUE,TRUE,16,16,2015-11-07
+"ayuntamiento-de-puebla","Ayuntamiento de Puebla",TRUE,TRUE,83,83,2015-11-18
+"ayuntamiento-de-reynosa","Ayuntamiento de Reynosa",TRUE,FALSE,2,2,2016-01-15
+"ayuntamiento-de-san-luis-potosi","Ayuntamiento de San Luis Potosí",FALSE,FALSE,6,3,2015-10-01
+"ayuntamiento-de-san-pedro-garza-garcia","Ayuntamiento de San Pedro Garza García",FALSE,FALSE,14,2,2015-10-01
+"ayuntamiento-de-torreon","Ayuntamiento de Torreón",TRUE,TRUE,11,11,2015-12-02
+"ayuntamiento-de-veracruz","Ayuntamiento de Veracruz",TRUE,TRUE,21,12,2016-04-21
+"ayuntamiento-de-xalapa","Ayuntamiento de Xalapa",TRUE,TRUE,76,16,2016-04-01
+"ayuntamiento-de-zapopan","Ayuntamiento de Zapopan",FALSE,FALSE,20,6,2015-10-01
+"bancomext","BANCOMEXT",TRUE,TRUE,9,4,2016-04-12
+"banjercito","BANJERCITO",FALSE,FALSE,2,2,2015-10-24
+"birmex","BIRMEX",TRUE,TRUE,6,6,2015-10-27
+"canal-11","Canal 11",TRUE,TRUE,8,8,2016-04-29
+"canal-22","Canal 22",TRUE,TRUE,6,6,2016-04-25
+"capufe","CAPUFE",FALSE,FALSE,5,5,2016-03-05
+"cdi","CDI",TRUE,TRUE,15,9,2015-12-02
+"ceav","CEAV",FALSE,FALSE,1,1,2016-04-27
+"cenam","CENAM",TRUE,TRUE,2,2,2016-03-03
+"cenapred","CENAPRED",FALSE,FALSE,14,14,2015-10-27
+"cenatra","CENATRA",TRUE,TRUE,4,4,2016-01-28
+"centro-de-investigaciones-y-estudios-superiores-en-antropologia-social","Centro de Investigaciones y Estudios Superiores en Antropología Social",TRUE,TRUE,2,2,2015-10-27
+"ceti","CETI",TRUE,TRUE,4,4,2016-05-03
+"cfe","CFE",TRUE,TRUE,9,9,2016-01-19
+"ciad","CIAD",TRUE,TRUE,23,5,2015-11-27
+"ciatec","CIATEC",TRUE,TRUE,7,7,2015-12-15
+"ciatej","CIATEJ",TRUE,TRUE,2,2,2015-11-05
+"cibnor","CIBNOR",TRUE,TRUE,19,15,2016-03-01
+"cicese","CICESE",TRUE,TRUE,7,7,2015-10-28
+"cicy","CICY",TRUE,TRUE,4,4,2016-04-29
+"cidesi","CIDESI",TRUE,TRUE,8,8,2016-04-09
+"cideteq","CIDETEQ",TRUE,TRUE,12,12,2015-11-25
+"cimat","CIMAT",TRUE,TRUE,46,46,2016-04-28
+"cimav","CIMAV",TRUE,TRUE,4,4,2015-11-28
+"cineteca-nacional","CINETECA NACIONAL",TRUE,TRUE,9,9,2015-10-27
+"cinvestav","CINVESTAV",TRUE,TRUE,4,4,2016-04-08
+"cio","CIO",TRUE,TRUE,2,2,2015-10-28
+"cm","Correos de México",TRUE,TRUE,64,33,2016-04-15
+"cmm","CMM",TRUE,TRUE,14,14,2016-04-29
+"cnbv","CNBV",TRUE,FALSE,41,5,2016-04-29
+"cnegsr","CNEGSR",TRUE,TRUE,6,4,2016-03-03
+"cnh","CNH",FALSE,TRUE,56,10,2016-03-02
+"cnsf","CNSF",TRUE,TRUE,80,80,2015-12-03
+"cofaa","COFAA",TRUE,TRUE,2,2,2015-10-28
+"cofepris","COFEPRIS",TRUE,TRUE,7,7,2016-01-18
+"colef","COLEF",TRUE,TRUE,9,8,2016-04-15
+"colpos","COLPOS",TRUE,TRUE,4,4,2015-10-27
+"colsan","COLSAN",TRUE,TRUE,7,5,2015-10-27
+"comimsa","COMIMSA",TRUE,TRUE,6,5,2016-04-18
+"conabio","CONABIO",TRUE,TRUE,21,8,2016-01-21
+"conacyt","CONACYT",FALSE,FALSE,11,11,2015-10-28
+"conadesuca","CONADESUCA",TRUE,TRUE,10,5,2016-02-17
+"conadis","CONADIS",TRUE,TRUE,3,3,2016-04-22
+"conafor","CONAFOR",TRUE,TRUE,15,9,2016-03-08
+"conagua","CONAGUA",TRUE,TRUE,83,71,2016-04-27
+"conalep","CONALEP",FALSE,FALSE,3,3,2016-01-15
+"conaliteg","CONALITEG",TRUE,TRUE,9,9,2016-04-29
+"conampros","CONAMPROS",TRUE,TRUE,11,11,2015-12-01
+"conanp","CONANP",TRUE,TRUE,143,25,2015-11-23
+"conapesca","CONAPESCA",TRUE,TRUE,23,17,2016-04-28
+"conapo","CONAPO",TRUE,TRUE,75,10,2016-04-15
+"conapred","CONAPRED",TRUE,TRUE,8,8,2016-04-02
+"conasami","CONASAMI",TRUE,TRUE,4,3,2016-01-27
+"conavi","CONAVI",TRUE,TRUE,7,6,2016-04-26
+"conaza","CONAZA",TRUE,TRUE,2,2,2016-01-11
+"condusef","CONDUSEF",TRUE,TRUE,9,9,2016-04-01
+"coneval","CONEVAL",TRUE,TRUE,96,23,2016-02-03
+"conocer","CONOCER",TRUE,TRUE,6,6,2016-02-29
+"consar","CONSAR",TRUE,TRUE,2,2,2015-10-28
+"conuee","CONUEE",FALSE,FALSE,2,2,2015-11-26
+"corett","CORETT",FALSE,FALSE,6,6,2016-01-14
+"crae","CRAE",TRUE,TRUE,11,9,2015-12-01
+"cre","CRE",TRUE,TRUE,21,20,2016-04-29
+"csaegro","CSAEGRO",TRUE,TRUE,3,3,2016-02-26
+"diconsa","DICONSA",TRUE,TRUE,33,33,2015-12-14
+"ech","ECH",TRUE,TRUE,6,6,2016-01-13
+"elccc","ELCCC",TRUE,TRUE,3,3,2015-10-29
+"estado-de-coahuila","Estado de Coahuila",TRUE,TRUE,14,6,2016-04-07
+"estado-de-jalisco","Estado de Jalisco",TRUE,TRUE,154,85,2016-01-31
+"estado-de-morelos","Estado de Morelos",TRUE,TRUE,27,21,2016-04-22
+"estado-de-puebla","Estado de Puebla",FALSE,FALSE,12,12,2015-10-01
+"estado-de-veracruz","Estado de Veracruz",TRUE,TRUE,58,37,2015-11-27
+"fidena","FIDENA",FALSE,FALSE,6,6,2016-02-25
+"fifonafe","FIFONAFE",FALSE,FALSE,4,4,2015-10-28
+"fira","FIRA",TRUE,TRUE,5,5,2016-01-27
+"firco","FIRCO",TRUE,TRUE,2,2,2015-10-28
+"fnd","FND",TRUE,TRUE,11,8,2016-03-29
+"focir","FOCIR",FALSE,FALSE,4,4,2015-10-28
+"fonacot","Instituto del Fondo Nacional para el Consumo de los Trabajadores",TRUE,TRUE,7,6,2016-04-25
+"fonart","FONART",TRUE,TRUE,14,4,2015-11-20
+"fondo-de-cultura-economica","Fondo de Cultura Económica",FALSE,FALSE,2,2,2015-10-01
+"fonhapo","FONHAPO",TRUE,TRUE,14,14,2016-01-16
+"gacm","GACM",TRUE,TRUE,18,18,2016-03-02
+"hggea","HGGEA",TRUE,TRUE,13,13,2016-04-25
+"himfg","HIMFG",TRUE,TRUE,9,9,2016-04-26
+"hraeb","HRAEB",TRUE,TRUE,25,25,2015-12-16
+"hraeo","HRAEO",TRUE,TRUE,4,3,2016-03-02
+"iepsa","IEPSA",FALSE,TRUE,13,6,2016-01-14
+"ift","ift",FALSE,FALSE,3,1,2015-10-01
+"iie","IIE",TRUE,TRUE,7,7,2016-05-02
+"im","Instituto Mora",TRUE,TRUE,21,21,2016-04-19
+"imjuve","IMJUVE",TRUE,FALSE,13,13,2016-01-18
+"imp","IMP",FALSE,FALSE,6,6,2016-04-01
+"impi","IMPI",TRUE,TRUE,2,2,2016-04-04
+"imss","IMSS",TRUE,TRUE,303,10,2016-01-14
+"imt","imt",TRUE,TRUE,10,10,2016-04-27
+"imta","IMTA",FALSE,FALSE,3,2,2016-03-01
+"inacipe","INACIPE",TRUE,TRUE,3,3,2016-04-02
+"inaes","INAES",FALSE,TRUE,1,1,2016-04-04
+"inah","INAH",TRUE,TRUE,4,3,2015-10-28
+"inali","INALI",TRUE,TRUE,10,4,2015-12-08
+"inaoe","INAOE",TRUE,TRUE,5,5,2016-03-04
+"inapam","INAPAM",TRUE,TRUE,4,4,2015-11-05
+"inapesca","INAPESCA",TRUE,TRUE,7,7,2015-11-12
+"inba","INBA",TRUE,TRUE,12,12,2016-05-02
+"inc","INC",FALSE,FALSE,1,1,2015-10-26
+"incan","INCAN",TRUE,TRUE,12,12,2016-01-15
+"indaabin","INDAABIN",TRUE,TRUE,7,7,2016-04-08
+"inea","INEA",TRUE,TRUE,19,19,2016-04-13
+"inecc","INECC",TRUE,TRUE,1039,6,2016-02-23
+"inecol","INECOL",TRUE,TRUE,15,9,2015-11-12
+"inegi","INEGI",FALSE,FALSE,1687,75,2015-10-24
+"infotec","INFOTEC",FALSE,FALSE,21,11,2016-01-11
+"inifap","INIFAP",TRUE,TRUE,2,2,2016-01-12
+"inifed","INIFED",TRUE,TRUE,5,5,2016-03-03
+"inmujeres","INMUJERES",TRUE,TRUE,26,6,2016-04-11
+"insp","INSP",TRUE,TRUE,110,12,2015-12-17
+"ipab","IPAB",TRUE,TRUE,50,14,2015-12-18
+"ipicyt","IPICYT",TRUE,TRUE,6,6,2016-02-18
+"ipn","IPN",TRUE,TRUE,17,17,2015-11-03
+"issfam","ISSFAM",TRUE,TRUE,10,10,2016-04-29
+"issste","ISSSTE",TRUE,TRUE,19,19,2016-04-01
+"lotenal","LOTENAL",TRUE,TRUE,9,9,2015-12-22
+"nafin","NAFIN",TRUE,TRUE,18,5,2016-05-02
+"notimex","Notimex",FALSE,FALSE,20,20,2016-04-20
+"pemex","PEMEX",FALSE,TRUE,51,49,2016-01-19
+"pgr","PGR",TRUE,TRUE,47,45,2016-02-27
+"presidencia","Presidencia",TRUE,TRUE,1673,40,2016-05-03
+"procuraduria-agraria","Procuraduría Agraria",TRUE,TRUE,4,4,2016-01-04
+"prodecon","PRODECON",TRUE,TRUE,42,42,2015-12-03
+"profeco","PROFECO",TRUE,TRUE,3,3,2016-04-22
+"profedet","PROFEDET",TRUE,TRUE,12,12,2015-12-17
+"profepa","Procuraduría Federal de Protección al Ambiente",TRUE,TRUE,16,13,2016-01-23
+"promexico","ProMéxico",TRUE,TRUE,30,26,2016-01-28
+"pronabive","PRONABIVE",TRUE,TRUE,4,4,2016-04-11
+"prospera","PROSPERA",TRUE,TRUE,156,6,2016-03-15
+"ran","RAN",TRUE,TRUE,136,12,2016-01-27
+"sae","SAE",TRUE,TRUE,9,9,2016-02-25
+"sagarpa","SAGARPA",TRUE,TRUE,127,25,2016-04-02
+"salud","SALUD",FALSE,TRUE,60,39,2016-02-10
+"sat","SAT",TRUE,TRUE,59,13,2016-04-08
+"sct","SCT",TRUE,TRUE,82,11,2016-04-15
+"se","SE",FALSE,FALSE,137,35,2016-04-27
+"sectur","SECTUR",TRUE,TRUE,37,36,2016-04-02
+"sedatu","SEDATU",TRUE,TRUE,30,5,2015-11-09
+"sedena","SEDENA",TRUE,TRUE,44,21,2016-04-20
+"sedesol","SEDESOL",TRUE,TRUE,1040,142,2016-04-19
+"segob","SEGOB",TRUE,TRUE,109,94,2016-04-13
+"seguro-popular","Seguro Popular",TRUE,TRUE,5,5,2015-12-17
+"semarnat","SEMARNAT",TRUE,TRUE,292,27,2016-04-13
+"senasica","SENASICA",TRUE,TRUE,63,63,2016-04-28
+"sener","Secretaría de Energía",TRUE,TRUE,232,131,2016-04-06
+"sep","SEP",TRUE,TRUE,125,13,2015-12-11
+"servicio-geologico-mexicano","Servicio Geológico Mexicano",TRUE,TRUE,46,8,2016-04-29
+"sesnsp","SESNSP",TRUE,TRUE,13,13,2015-12-10
+"sfp","SFP",TRUE,TRUE,31,31,2016-03-30
+"shcp","SHCP",TRUE,TRUE,66,12,2016-04-23
+"shf","SHF",FALSE,FALSE,1,1,2015-10-27
+"siap","SIAP",FALSE,FALSE,70,13,2016-04-06
+"sndif","SNDIF",TRUE,TRUE,16,6,2016-04-20
+"snics","SNICS",FALSE,FALSE,3,2,2015-10-27
+"spr","Sistema Público de Radiofusión del Estado Mexicano",TRUE,TRUE,12,12,2015-12-01
+"sre","SRE",TRUE,TRUE,41,41,2016-02-13
+"stps","STPS",TRUE,FALSE,70,58,2016-04-29
+"telecomm","Telecomm",TRUE,TRUE,7,7,2015-10-29
